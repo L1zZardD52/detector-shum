@@ -1,0 +1,9 @@
+# Android Studio project
+.idea/
+.gradle/
+local.properties
+**/build/
+*.iml
+
+.kotlin/
+out/
